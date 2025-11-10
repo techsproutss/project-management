@@ -1,11 +1,3 @@
-# 🧩 Laravel Full-Stack Developer Assessment
-
-### Level: Intermediate → Advanced  
-### Duration: 5–6 Hours  
-### Goal: Evaluate ability to design, architect, and implement a full-stack Laravel application from scratch.
-
----
-
 ## 📘 Project Overview
 
 You are required to develop a **Project Management System** using **Laravel** (version 10 or later) and **Blade (Bootstrap for UI)**.  
